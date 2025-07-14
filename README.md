@@ -24,7 +24,7 @@ Z.B. dieser Bezeichner verweist auf Ordner 2 und das Notebook mit dem Code EDA.
 ## Entwicklung (Development)
 
 - Mac/Linux: Aktivieren der Python-Umgebung: `source .venv/bin/activate`
-- Windows: Aktivieren der Python-Umgebung: `.\.venv\Scripts\Activate.ps1`
+- Windows: Aktivieren der Python-Umgebung: `.venv\Scripts\Activate.bat`
 - Python-Skript ausführen: `python <dateiname.py>`, z.B. `python train.py`
 - Neue Abhängigkeit installieren: `pip install sklearn`
 - Aktuell installierte Abhängigkeiten zurück in requirements.txt speichern: `pip freeze > requirements.txt`
@@ -166,7 +166,7 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 
 * **Bücher**:
     * "Deep Learning" von Ian Goodfellow, Yoshua Bengio und Aaron Courville (Das "Deep Learning Buch" - kostenlos online unter [www.deeplearningbook.org](https://www.deeplearningbook.org/)).
-    * "Deep Learning with Python" von François Chollet (Entwickler von Keras). (Deutscher Titel: "Deep Learning mit Python und Keras" [Link zum Kauf](https://www.genialokal.de/Produkt/Francois-Chollet/Deep-Learning-mit-Python-und-Keras_lid_37044484.html)) 
+    * "Deep Learning with Python" von François Chollet (Entwickler von Keras). (Deutscher Titel: "Deep Learning mit Python und Keras" [Link zum Kauf](https://www.genialokal.de/Produkt/Francois-Chollet/Deep-Learning-mit-Python-und-Keras_lid_37044484.html))
 * **Videos**:
     * 3Blue1Brown YouTube-Kanal: Neural Networks series [Playlist](youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) auf dem Kanal [youtube.com/@3blue1brown](http://googleusercontent.com/youtube.com/c/3blue1brown) für ein intuitives Verständnis.
     * Two Minute Papers YouTube-Kanal: [youtube.com/@TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers) - Fasst spannende neue KI-Forschungsarbeiten zusammen.

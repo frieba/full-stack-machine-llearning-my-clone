@@ -3,3 +3,5 @@
 .DS_Store
 data/cifar-10-batches-py
 data/cifar-10-python.tar.gz
+notepads/*/*/data
+notepads/*/*/*/data
