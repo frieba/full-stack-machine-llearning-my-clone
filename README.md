@@ -2,13 +2,15 @@
 
 ## Intro
 
-Dieses Repository enthält das Begleitmaterial für den Full Stack Machine Learning Kurs (Digethic Data Scientist / AI-Engineer).
+Dieses Repository enthält Übungen und Begleitmaterial für den Full Stack Machine Learning Kurs (Digethic Data Scientist / AI-Engineer).
 
-Alle Notebooks unter `/notepads` sind strukturiert und können über die Ordnernummer und den Notebook-Code identifiziert werden. Alle Notebooks entsprechen den Folien und Videos, die für diesen Kurs erstellt wurden.
+Alle Schulungsbegleitenden Übungen sind unter `/Übungsaufgaben` zu finde.
+
+Alle Begleitmaterialen für die Vorlesungsslides sind unter `/Begleitmaterial` abgelegt und können über das Kürzel identifiziert werden. Alle Notebooks entsprechen den Folien und Videos, die für diesen Kurs erstellt wurden.
 
 ![image](https://user-images.githubusercontent.com/29402504/137859990-054ce9a4-f2d2-4054-8d25-faae4a466c5f.png)
 
-Z.B. dieser Bezeichner verweist das Notebook mit dem Kürzel EDA.
+Z.B. dieser Bezeichner verweist das Notebook mit dem Kürzel EDA im Ordner `/Begleitmaterial`.
 
 ## Setup
 
