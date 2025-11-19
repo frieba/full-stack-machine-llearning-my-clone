@@ -42,11 +42,11 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 ## Allgemeine Übersichten zu Data Science & Machine Learning 📚
 
 * **Bücher**:
-    * "Python for Data Analysis" von Wes McKinney: Ein praktischer Leitfaden zur Datenmanipulation mit Pandas. Unverzichtbar für Python-basierte Data Science. (Deutscher Titel "Datenanalyse mit Python": [Link zum Kauf](https://www.genialokal.de/Produkt/Wes-Mckinney/Datenanalyse-mit-Python_lid_50209543.html))
-    * "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" von Aurélien Géron: Ein umfassendes und sehr beliebtes Buch, das eine breite Palette von ML-Konzepten und Implementierungen abdeckt. (Deutscher Titel "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow" [Link zum Kauf](https://www.genialokal.de/Produkt/Aurelien-Geron/Praxiseinstieg-Machine-Learning-mit-Scikit-Learn-Keras-und-TensorFlow_lid_51163356.html))
+    * "Python for Data Analysis" von Wes McKinney: Ein praktischer Leitfaden zur Datenmanipulation mit Pandas. Unverzichtbar für Python-basierte Data Science. (Deutscher Titel "Datenanalyse mit Python": [Link zum Buch](https://www.genialokal.de/Produkt/Wes-Mckinney/Datenanalyse-mit-Python_lid_50209543.html))
+    * "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" von Aurélien Géron: Ein umfassendes und sehr beliebtes Buch, das eine breite Palette von ML-Konzepten und Implementierungen abdeckt. (Deutscher Titel "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow" [Link zum Buch](https://www.genialokal.de/Produkt/Aurelien-Geron/Praxiseinstieg-Machine-Learning-mit-Scikit-Learn-Keras-und-TensorFlow_lid_51163356.html))
     * "An Introduction to Statistical Learning (with Applications in R or Python)" von Gareth James, Daniela Witten, Trevor Hastie und Robert Tibshirani: Bietet einen klaren und zugänglichen Überblick über statistische Lernmethoden. Die Python-Version ist besonders relevant. (Kostenloses PDF online verfügbar unter [www.statlearning.com](https://www.statlearning.com/))
     * "The Elements of Statistical Learning" von Trevor Hastie, Robert Tibshirani und Jerome Friedman: Ein fortgeschritteneres und umfassenderes Werk, oft als eine Bibel des maschinellen Lernens betrachtet. (Kostenloses PDF online verfügbar unter [hastie.su.domains/ElemStatLearn/](https://hastie.su.domains/ElemStatLearn/))
-    * "Pattern Recognition and Machine Learning" von Christopher M. Bishop: Ein klassisches, eher theoretisches Lehrbuch zum maschinellen Lernen. [Link zum Kauf](https://www.genialokal.de/Produkt/Christopher-M-Bishop/Pattern-Recognition-and-Machine-Learning_lid_33700982.html)
+    * "Pattern Recognition and Machine Learning" von Christopher M. Bishop: Ein klassisches, eher theoretisches Lehrbuch zum maschinellen Lernen. [Link zum Buch](https://www.genialokal.de/Produkt/Christopher-M-Bishop/Pattern-Recognition-and-Machine-Learning_lid_33700982.html)
 * **Websites & Blogs**:
 
     * [Towards Data Science](https://towardsdatascience.com/): Eine Medium-Publikation mit einer riesigen Sammlung von Artikeln zu Data Science, ML und KI.
@@ -61,8 +61,8 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 ## Python für Data Science 🐍
 
 * **Bücher**:
-    * "Python for Data Analysis" von Wes McKinney hier besonders relevant. [Link zum Kauf](https://www.genialokal.de/Produkt/Wes-Mckinney/Datenanalyse-mit-Python_lid_50209543.html)
-    * "Fluent Python" von Luciano Ramalho: Für diejenigen, die idiomatischeren und effizienteren Python-Code schreiben möchten. [Link zum Kauf](https://www.genialokal.de/Produkt/Luciano-Ramalho/Fluent-Python_lid_43515403.html)
+    * "Python for Data Analysis" von Wes McKinney hier besonders relevant. [Link zum Buch](https://www.genialokal.de/Produkt/Wes-Mckinney/Datenanalyse-mit-Python_lid_50209543.html)
+    * "Fluent Python" von Luciano Ramalho: Für diejenigen, die idiomatischeren und effizienteren Python-Code schreiben möchten. [Link zum Buch](https://www.genialokal.de/Produkt/Luciano-Ramalho/Fluent-Python_lid_43515403.html)
 * **Tutorials & Dokumentation**:
     * Offizielles Python-Tutorial: [docs.python.org/3/tutorial/](https://docs.python.org/3/tutorial/)
     * NumPy-Dokumentation: [numpy.org/doc/stable/](https://numpy.org/doc/stable/)
@@ -78,7 +78,7 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 
 * **Bücher**:
     * "Think Stats: Exploratory Data Analysis in Python" von Allen B. Downey (Kostenlos online verfügbar unter [allendowney.github.io/ThinkStats/](https://allendowney.github.io/ThinkStats/)).
-    * "Practical Statistics for Data Scientists" von Peter Bruce, Andrew Bruce & Peter Gedeck. (Deutscher Titel: "Statistik für Data Scientists" [Link zum Kauf](https://www.genialokal.de/Produkt/Peter-Bruce-Andrew-Bruce-Peter-Gedeck/Praktische-Statistik-fuer-Data-Scientists_lid_43923291.html))
+    * "Practical Statistics for Data Scientists" von Peter Bruce, Andrew Bruce & Peter Gedeck. (Deutscher Titel: "Statistik für Data Scientists" [Link zum Buch](https://www.genialokal.de/Produkt/Peter-Bruce-Andrew-Bruce-Peter-Gedeck/Praktische-Statistik-fuer-Data-Scientists_lid_43923291.html))
 * **Online-Kurse**:
     * Khan Academy's Statistics and Probability: [khanacademy.org/math/statistics-probability](https://khanacademy.org/math/statistics-probability) (Viele Inhalte auch auf Deutsch verfügbar)
 * **Artikel**:
@@ -121,7 +121,7 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 
 ### Entscheidungsbäume & Ensemble-Methoden (Random Forest, AdaBoost)
 * **Bücher**:
-    * Kapitel in "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow." (Deutscher Titel: "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow" [Link zum Kauf](https://www.genialokal.de/Produkt/Aurelien-Geron/Praxiseinstieg-Machine-Learning-mit-Scikit-Learn-Keras-und-TensorFlow_lid_51163356.html))
+    * Kapitel in "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow." (Deutscher Titel: "Praxiseinstieg Machine Learning mit Scikit-Learn, Keras & TensorFlow" [Link zum Buch](https://www.genialokal.de/Produkt/Aurelien-Geron/Praxiseinstieg-Machine-Learning-mit-Scikit-Learn-Keras-und-TensorFlow_lid_51163356.html))
 * **Videos**:
     * StatQuest: Decision Trees (z.B. [Playlist](https://www.youtube.com/playlist?list=PLblh5JKOoLUKAtDViTvRGFpphEc24M-QH)), Random Forests, AdaBoost, Gradient Boost (XGBoost) - alle haben eigene Videos.
 * **Artikel**:
@@ -168,7 +168,7 @@ Diese Liste enthält ergänzende Materialien wie Bücher, Artikel, Online-Kurse 
 
 * **Bücher**:
     * "Deep Learning" von Ian Goodfellow, Yoshua Bengio und Aaron Courville (Das "Deep Learning Buch" - kostenlos online unter [www.deeplearningbook.org](https://www.deeplearningbook.org/)).
-    * "Deep Learning with Python" von François Chollet (Entwickler von Keras). (Deutscher Titel: "Deep Learning mit Python und Keras" [Link zum Kauf](https://www.genialokal.de/Produkt/Francois-Chollet/Deep-Learning-mit-Python-und-Keras_lid_37044484.html))
+    * "Deep Learning with Python" von François Chollet (Entwickler von Keras). (Deutscher Titel: "Deep Learning mit Python und Keras" [Link zum Buch](https://www.genialokal.de/Produkt/Francois-Chollet/Deep-Learning-mit-Python-und-Keras_lid_37044484.html))
 * **Videos**:
     * 3Blue1Brown YouTube-Kanal: Neural Networks series [Playlist](youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) auf dem Kanal [youtube.com/@3blue1brown](http://googleusercontent.com/youtube.com/c/3blue1brown) für ein intuitives Verständnis.
     * Two Minute Papers YouTube-Kanal: [youtube.com/@TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers) - Fasst spannende neue KI-Forschungsarbeiten zusammen.
